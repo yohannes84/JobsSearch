@@ -1,0 +1,1 @@
+A data-driven MEAN CRUD application to manage JobSeraching.

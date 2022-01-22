@@ -1,0 +1,23 @@
+[{
+    "_id": {
+		"$oid": "5fbed15c07a5894b456a4336"
+	},
+    "title" : "Programmer",
+    "salary" : "145000",
+    "location": {
+        "coordinates": [32.96999,-96.60308]
+    },
+    "description": "software developer engaged in developeing and writing software codes to build enterprise applications",
+    "experience": 5,
+    "skills": ["angular","java","spring"],
+    "postDate": "2022-01-09",
+    "reviews":{
+        "_id": {
+			"$oid": "61d3a3cd2a1998dfe2c114c5"
+		},
+        "date": "2022-01-15",
+        "reviewText": "This is job title has been volatile for  a year and the demand goes up and down every two years",
+        "nameOfReviewer":"Yohannes Desta"
+    }
+}]
+

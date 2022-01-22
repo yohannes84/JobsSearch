@@ -1,0 +1,22 @@
+{
+  "name": "jobsearching",
+  "version": "1.0.0",
+  "description": "jobsearching application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "yohannes",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "jquery": "^3.6.0",
+    "mongoose": "^6.1.7"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.4"
+  }
+}
